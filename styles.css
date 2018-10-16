@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+    color: blue;
+}
+.bg {
+    background-color: lightblue;
+}
+.text {
+    font-style: italic;
+}
+
+a:link, a:visited {
+    background-color: purple;
+    color: green;
+    padding: 13px 24px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: grey;
+}
+
+footer {
+    display: block;
+}
+body{
+    color: orange;
+
+}
